@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>My Site</title>
+    <title>Project</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="fonts/fontawesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+
     <!-- Theme Style -->
     <link rel="stylesheet" href="css/style.css">
   </head>
@@ -26,9 +27,9 @@
       <a href="#" class="offcanvas-toggle js-offcanvas-toggle">Menu</a>
       <div class="offcanvas_menu" id="offcanvas_menu">
         <ul class="mb-5">
-          <li class="active"><a href="index.html">Home</a></li>
-          <li><a href="portfolio.html">Project Works</a></li>
-          <li><a href="resume.html">CV</a></li>
+          <li class="active"><a href="index.php">Home</a></li>
+          <li><a href="portfolio.php">Project Works</a></li>
+          <li><a href="resume.php">CV</a></li>
         </ul>
 
         <ul class="social">
@@ -36,26 +37,29 @@
         </ul>
 
 </br>
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This Website is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="index.html" target="_blank">Lieyang Chen</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This Website is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="index.php" target="_blank">Lieyang Chen</a>
 
       </div>
       
       <aside style="background-image: url(img/portfolio.jpg);"></aside>
       <main>
-        <h1 class="mb-0">Hi, My Name is Lieyang Chen.</h1>
-        <div class="mb-5">
-        <p class="lead mb-3">Electrical Engineering &amp; Computer Engineering</p>
-        <p>Lieyang Chen(陈烈阳) is an Engineering student based in Grand New York Area and New Jersey Area.</p>
-        <p>Originally from Yiwu, China, I grew up with a love for Electronics and Computer Software. I am currently pusring major in ECE(Electrical & Computer Engineering at Rutgers University, New Brunswick. My current GPA is 3.778 at the end of my junior year, as of Spring 2019. I wish I can explore my potential in different fields.</p>
-        <p>Full Resume available upon request.</p>
-        <p>Email me: lc893@scarletmail.rutgers.edu</p>
-        </div>
-
-        <p>
-          <a href="https://github.com/C616624830" class="mr-2 mb-2">Github</a>
-       </p>
-       
-        </div>
+        <a href="index.php" class="home-button"><span class="fa fa-home"></span></a>
+        <h1 class="mb-5">Project Works</h1>
+         
+         <div class="container">
+          <ul class="portfolio-list">
+            
+          
+            <li>
+              <a href="http://ec2-13-58-42-120.us-east-2.compute.amazonaws.com:8080/BuyMe/index.php">
+                <img src="img/buyme.jpg" alt="">
+                <div class="text">
+                  <h3>BuyMe</h3>
+                  <span>Please Visit Our Website: http://ec2-13-58-42-120.us-east-2.compute.amazonaws.com:8080/BuyMe/index.php</span>
+                </div>
+              </a>
+            </li>
+          
         
       </main>
     </div>

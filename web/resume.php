@@ -27,9 +27,9 @@
       <a href="#" class="offcanvas-toggle js-offcanvas-toggle">Menu</a>
       <div class="offcanvas_menu" id="offcanvas_menu">
         <ul class="mb-5">
-          <li class="active"><a href="index.html">Home</a></li>
-          <li><a href="portfolio.html">Project Works</a></li>
-          <li><a href="resume.html">CV</a></li>
+          <li class="active"><a href="index.php">Home</a></li>
+          <li><a href="portfolio.php">Project Works</a></li>
+          <li><a href="resume.php">CV</a></li>
         </ul>
 
         <ul class="social">
@@ -37,13 +37,13 @@
         </ul>
 
 </br>
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This Website is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="index.html" target="_blank">Lieyang Chen</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This Website is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="index.php" target="_blank">Lieyang Chen</a>
 
       </div>
       
       <aside style="background-image: url(img/portfolio.jpg);"></aside>
       <main>
-        <a href="index.html" class="home-button"><span class="fa fa-home"></span></a>
+        <a href="index.php" class="home-button"><span class="fa fa-home"></span></a>
         <h1 class="mb-5">Experience</h1>
         <div class="mb-5">
           <ul class="resume-list">
