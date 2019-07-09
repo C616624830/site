@@ -55,7 +55,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                 <img src="img/buyme.jpg" alt="">
                 <div class="text">
                   <h3>BuyMe</h3>
-                  <span>Please Visit Our Website: http://ec2-13-58-42-120.us-east-2.compute.amazonaws.com:8080/BuyMe/index.php</span>
+                  <span>Please Visit Our Website: http://ec2-13-58-42-120.us-east-2.compute.amazonaws.com:8080/BuyMe/index.jsp</span>
                 </div>
               </a>
             </li>
