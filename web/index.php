@@ -45,7 +45,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
         <h1 class="mb-0">Hi, My Name is Lieyang Chen.</h1>
         <div class="mb-5">
         <p class="lead mb-3">Electrical Engineering &amp; Computer Engineering</p>
-        <p>Lieyang Chen(陈烈阳) is an Engineering student based in Grand New York Area and New Jersey Area.</p>
+        <p>Lieyang Chen is an Engineering student based in Grand New York Area and New Jersey Area.</p>
         <p>Originally from Yiwu, China, I grew up with a love for Electronics and Computer Software. I am currently pusring major in ECE(Electrical & Computer Engineering at Rutgers University, New Brunswick. My current GPA is 3.778 at the end of my junior year, as of Spring 2019. I wish I can explore my potential in different fields.</p>
         <p>Full Resume available upon request.</p>
         <p>Email me: lc893@scarletmail.rutgers.edu</p>
