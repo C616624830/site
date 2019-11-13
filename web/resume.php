@@ -66,8 +66,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
               <h3>Rutgers University - New Brunswick</h3>
               <p class="date">2016 - Present</p>
               <p>Pursuing Bachelor of Science in Electrical and Computer Engineering</p>
-              <P>GPA : 3.778/4.000 as of Spring 2018 (Major Top 7%)</P>
-              <p>Dean's list, All Semesters, all semesters</p><p>
+              <P>GPA : 3.778/4.000 as of Spring 2019 (Major Top 7%)</P>
+              <p>Dean's list, All Semesters</p><p>
             </li>
           </ul>
         </div>

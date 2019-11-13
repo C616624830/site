@@ -58,18 +58,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                   <span>Please Visit Our Website: http://ec2-13-58-42-120.us-east-2.compute.amazonaws.com:8080/BuyMe/index.html</span>
                 </div>
               </a>
-            </li>
-
-            <li>
-              <a href="http://ec2-13-58-42-120.us-east-2.compute.amazonaws.com:8080/BuyMe/index.html">
-                <img src="img/buyme.jpg" alt="">
-                <div class="text">
-                  <h3>BuyMe</h3>
-                  <span>Please Visit Our Website: http://ec2-13-58-42-120.us-east-2.compute.amazonaws.com:8080/BuyMe/index.html</span>
-                </div>
-              </a>
-            </li>
-          
+            </li>  
         
       </main>
     </div>
