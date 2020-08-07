@@ -46,9 +46,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
         <div class="mb-5">
         <p class="lead mb-3">Electrical Engineering &amp; Computer Engineering</p>
         <p>Lieyang Chen is an Engineering student based in Grand New York Area and New Jersey Area.</p>
-        <p>Originally from Yiwu, China, I grew up with a love for Electronics and Computer Software. I am currently pusring major in ECE(Electrical & Computer Engineering at Rutgers University, New Brunswick. My current GPA is 3.778 at the end of my junior year, as of Spring 2019. I wish I can explore my potential in different fields.</p>
+        <p>Originally from Yiwu, China, I grew up with a love for Electronics and Computer Software. I am currently pusring major in CS(Computer Science) at Columbia University, New York. My GPA was 3.8 when I was a undergraduate at Rutgers University, as of Spring 2020. I wish I can explore my potential in different fields.</p>
         <p>Full Resume available upon request.</p>
-        <p>Email me: lc893@scarletmail.rutgers.edu</p>
+        <p>Email me: lc3549@columbia.edu</p>
         </div>
 
         <p>
